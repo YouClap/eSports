@@ -2,12 +2,13 @@
 .work-in-progress-table {
 	display: table;
 	width: 100%;
-	margin: auto;
+	height: 100%;
+	vertical-align: middle;
 }
 
 .work-in-progress-table-body {
 	display: table-row-group;
-	margin: auto;
+	text-align: center;
 }
 
 .work-in-progress-table-row {
