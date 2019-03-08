@@ -1,0 +1,21 @@
+
+.work-in-progress-table {
+	display: table;
+	width: 100%;
+	margin: auto;
+}
+
+.work-in-progress-table-body {
+	display: table-row-group;
+	margin: auto;
+}
+
+.work-in-progress-table-row {
+	display: table-row;
+}
+
+.work-in-progress-table-cell, .work-in-progress-table-head {
+	display: table-cell;
+	padding: 3px 10px;
+	margin: auto;
+}
