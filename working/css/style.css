@@ -32,6 +32,7 @@ body {
 	line-height: 1.7;
 }
 
+
 a, a:visited {
 	color: #777777;
 	-webkit-transition:0.2s;
@@ -680,7 +681,7 @@ a img.aligncenter {
 }
 
 .page-title-breadcrumbs .page-title-breadcrumbs-image {
-	background-image: url(./../../img/breadcrumbs-bg.jpg);
+	background-image: url(./../img/breadcrumbs-bg.jpg);
 	background-size: cover;
 	position: absolute;
 	opacity: 0.50;
