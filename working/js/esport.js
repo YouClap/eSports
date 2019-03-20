@@ -40,15 +40,6 @@
 			});
 		}
 
-		$('.mobile-menu').scrollbar();
-
-		$(document).on('click', '.user-box .user-box-login>ul>li.user-box-login-form .user-box-login-form-top-links li a', function(){
-			$('.esport-class').addClass('modal-open').delay(900);
-		});
-
-		$(document).on('click', '.user-box .user-box-login .close', function(){
-			$('body').removeClass('modal-open');
-		});
 	});
 	/*---------- MOBILE HEADER END ----------*/
 	
